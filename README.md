@@ -6,7 +6,7 @@
 This project allows an ESP32 to act as a **WiFi repeater**, boosting the range of an existing WiFi network. The ESP32 connects to your main WiFi (as a station) and creates a secondary access point (AP) for other devices to connect.  
 
 ## **Features**  
-✅ Extends WiFi coverage using ESP32  
+✅ Extends WiFi coverage using ESP32 
 ✅ Simple setup with minimal code  
 ✅ Connects to an existing WiFi network  
 ✅ Creates a new hotspot for other devices  
