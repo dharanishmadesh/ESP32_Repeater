@@ -1,6 +1,6 @@
 # **ESP32 WiFi Repeater**  
 
-🚀 **Turn your ESP32 into a WiFi repeater and extend your network coverage!**  
+🚀 **Turn your ESP32 into a WiFi repeater and extend your network coverage!** 
 
 ## **Overview**  
 This project allows an ESP32 to act as a **WiFi repeater**, boosting the range of an existing WiFi network. The ESP32 connects to your main WiFi (as a station) and creates a secondary access point (AP) for other devices to connect.  
